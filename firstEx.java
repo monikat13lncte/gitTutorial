@@ -1,5 +1,5 @@
 class firstEx{
-piblic static void main(string h[]){
+public static void main(string args[]){
 System.out.println("jai ganesh");
 }
 }
